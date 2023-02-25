@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 function Ctrl-c(){
 echo -e "\n\n[+] Exiting...\n"
